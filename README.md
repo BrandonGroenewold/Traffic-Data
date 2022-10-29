@@ -1,5 +1,4 @@
-# Project 1 - Group 9
-## Group 9
+# Traffic Data Analysis
 
 ### Brandon Groenewold
 ### Jon Kwiatkowski
