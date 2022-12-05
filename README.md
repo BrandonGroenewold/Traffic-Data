@@ -1,6 +1,6 @@
 # Traffic Data Analysis
 
-## Contributors
+## Contributors:
 
 ### Brandon Groenewold
 ### Jon Kwiatkowski
